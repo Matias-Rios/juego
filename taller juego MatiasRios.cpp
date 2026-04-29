@@ -87,7 +87,9 @@ int main(){
 			flag=continuar(desicion);
 		}
 	}
-
+    cout << "------------------------------" << endl;
+    cout << "        FIN DE LA PARTIDA          " << endl;
+    cout << "------------------------------" << endl;
 	cout<<"Vuelva pronto "<<endl;
 	j1.mostrarSaldo();
 	
