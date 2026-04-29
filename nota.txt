@@ -1,0 +1,4 @@
+Elegi el slot machine 
+1) funcionalidad extra , mejor interfaz.
+2) funcionalidad extra verificacion de entradas en este caso
+el si y no.
